@@ -39,8 +39,9 @@ Tahapan admin dan petugas untuk akan mengakses The Library adalah sebagai beriku
 
 
 
-
-
+<br>
+###Dibawah Ini Adalah File Aplikasi Berbentuk ZIP<br>
+[perpustakaan_digital.zip](https://github.com/muazarohkurnia/muazarohkurnia/files/15088281/perpustakaan_digital.zip)
 
 
 
